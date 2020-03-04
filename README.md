@@ -34,16 +34,16 @@ This app is still in beta testing phase. There are still a lot of features and f
 ## Screen Recordings
 
 ### Adding Reminders and Editing Reminders
-![Alt Text](https://media.giphy.com/media/Xd1GJJDaK1YVSphJa9/giphy.gif)
+![Alt Text](Gifs/Reminder.gif)
 
 ### Adding Lab Results using YPImagePicker
-![Alt Text](https://media.giphy.com/media/l57kfzGxLECqPPJLvQ/giphy.gif)
+![Alt Text](Gifs/Lab-Results.gif)
 
 ### Add Prescription
-![Alt Text](https://media.giphy.com/media/kc6InTv5LgQSCBOI4V/giphy.gif)
+![Alt Text](Gifs/Prescription.gif)
 
 ### REST API to download more drug data
-![Alt Text](https://media.giphy.com/media/H1MWoYXiMLZoXxyFwE/giphy.gif)
+![Alt Text](Gifs/DrugDB.gif)
 
 ### Updating Home view after making changes from other views
-![Alt Text](Blood-Glucose.gif)
+![Alt Text](Gifs/Blood-Glucose.gif)
