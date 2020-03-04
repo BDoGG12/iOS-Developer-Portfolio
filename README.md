@@ -46,4 +46,4 @@ This app is still in beta testing phase. There are still a lot of features and f
 ![Alt Text](https://media.giphy.com/media/H1MWoYXiMLZoXxyFwE/giphy.gif)
 
 ### Updating Home view after making changes from other views
-![Alt Text](https://media.giphy.com/media/YOTHsVg0GvL1fbBqlE/giphy.gif)
+![Alt Text](Blood-Glucose.gif)
