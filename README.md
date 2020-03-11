@@ -9,19 +9,19 @@
 ## Screen Recordings
 
 ### Core Data and CloudKit sync across devices of same iCloud account
-![Alt Text](https://media.giphy.com/media/gKO2vbpLlJVzPRIQmQ/giphy.gif)
+![Alt Text](HubGifs/CloudKit.gif)
 
 ### Core Data and UITableViewDiffableDataSource
-![Alt Text](https://media.giphy.com/media/H82jkCq5l5YcdH9XC5/giphy.gif)
+![Alt Text](HubGifs/Diffing.gif)
 
 ### SafariServices
-![Alt Text](https://media.giphy.com/media/MEk5d1akwmKVZpAnZR/giphy.gif)
+![Alt Text](HubGifs/Safari.gif)
 
 ### Deleting UITableView Row with Snapshot and updating Core Data
-![Alt Text](https://media.giphy.com/media/S8MjUXWFP3DIifXDPB/giphy.gif)
+![Alt Text](HubGifs/SnapshotDelete.gif)
 
 ### Deleting all UITableView Rows with Snapshot and updating Core Data
-![Alt Text](https://media.giphy.com/media/Ka1e3EblOPWFfRJpOO/giphy.gif)
+![Alt Text](HubGifs/CoreDataDeleteAll.gif)
 
 # SongCare
 **SongCare** is a personal project that I have started as a means to dig deeper into Swift and challenge myself to publish on the App Store. My father, who is a surgeon in Korea, and I architectured this app together, with our combined passion and plans for an improved health care system wherein patients can have direct and unimpeded access to their own health data, and wherein doctors, patients, and other healthcare professionals can have smoother and secure delivery of information and requests. This app is a small piece of a bigger scheme of this desire for improved health care system.
