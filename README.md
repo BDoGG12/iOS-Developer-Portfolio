@@ -57,13 +57,13 @@ This app is still in beta testing phase. There are still a lot of features and f
 ## Screen Recordings
 
 ### UIRefreshControl to update prices 
-![Alt Text](Gifs/TarkovMarket - UIRefreshControl.gif)
+![Alt Text](TarkovMarketGifs/UIRefreshControl.gif)
 
 ### Empty State View and updating Core Data Entity to toggle `isFavourited` property
-![Alt Text](Gifs/TarkovMarket - EmptyState.gif)
+![Alt Text](TarkovMarketGifs/EmptyState.gif)
 
 ### Using Diffable Data Source to filter search controller results
-![Alt Text](Gifs/TarkovMarket - Diffing.gif)
+![Alt Text](TarkovMarketGifs/Diffing.gif)
 
 ### Sorting Core Data objects using NSPredicate
-![Alt Text](Gifs/TarkovMarket - Sorting.gif)
+![Alt Text](TarkovMarketGifs/Sorting.gif)
