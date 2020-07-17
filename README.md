@@ -47,3 +47,23 @@ This app is still in beta testing phase. There are still a lot of features and f
 
 ### Updating Home view after making changes from other views
 ![Alt Text](Gifs/Blood-Glucose.gif)
+
+# TarkovMarket
+**TarkovMarket** started as a personal need for an app that can help me quickly view item prices to maximize my profits each raid in Battlestate Game’s *Escape From Tarkov*, a game that forever ruined my enjoyment of any other FPS games. It’s a simple app that retrieves item information from the game’s flea market, using a 3rd party API service. Users can select items to add to the favourite list so that they have quick access to item information at a glance. 
+
+#### Technology: Core Data, CloudKit, Diffable Data Source, REST API, UIRefreshControl, ResultTypes
+#### 3rd Party Libraries: None
+
+## Screen Recordings
+
+### UIRefreshControl to update prices 
+![Alt Text](Gifs/TarkovMarket - UIRefreshControl.gif)
+
+### Empty State View and updating Core Data Entity to toggle `isFavourited` property
+![Alt Text](Gifs/TarkovMarket - EmptyState.gif)
+
+### Using Diffable Data Source to filter search controller results
+![Alt Text](Gifs/TarkovMarket - Diffing.gif)
+
+### Sorting Core Data objects using NSPredicate
+![Alt Text](Gifs/TarkovMarket - Sorting.gif)
