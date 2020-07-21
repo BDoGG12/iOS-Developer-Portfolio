@@ -2,7 +2,7 @@
 
 # Hub
 
-[Hub](https://github.com/chriisong/GitHubFollowers) is a take-home project by [Sean Allen](https://github.com/sallen0400). Upon completion of the course, I have added some additional features such as Core Data and CloudKit capabilities, additional view controllers for smoother user experience, and changing the `FavouritesVC` to be UITableViewDiffableSource.
+[Hub](https://github.com/chriisong/GitHubFollowers) is a take-home project by [Sean Allen](https://github.com/sallen0400). It is a GitHub follower app that quickly searches for a list of followers for a given username using GitHub’s public API. With the retrieved followers list, users can further access the follower’s GitHub profile using SFSafariView and retrieve the follower’s own follower list. Upon completion of the course, I have added some additional features such as Core Data and CloudKit capabilities, additional view controllers for smoother user experience, and changing the `FavouritesVC` to be UITableViewDiffableSource. 
 
 #### Technology: Diffable Data Source, Core Data, CloudKit, No 3rd-Party Libraries, Result Type, REST API
 
@@ -24,7 +24,7 @@
 ![Alt Text](HubGifs/CoreDataDeleteAll.gif)
 
 # SongCare
-**SongCare** is a personal project that I have started as a means to dig deeper into Swift and challenge myself to publish on the App Store. My father, who is a surgeon in Korea, and I architectured this app together, with our combined passion and plans for an improved health care system wherein patients can have direct and unimpeded access to their own health data, and wherein doctors, patients, and other healthcare professionals can have smoother and secure delivery of information and requests. This app is a small piece of a bigger scheme of this desire for improved health care system.
+**SongCare** is a Personal Health Record app that enables patients to keep a well-organized record of their prescriptions, blood glucose values, blood pressure values, weight measurements, and clinic appointments, and set alerts to remind them to take their prescriptions, measure their health indices, and attend their appointments. Patients will then be able to share their data with their medical professionals in order to receive appropriate coaching and prescription adjusting to better suit their current health trend. SongCare stores all sensitive data in private CloudKit containers not only to keep the data secure, but also to allow ease of use when operating from different device. SongCare allows for unimpeded access to a patient’s own medical record and will play a bigger role in the growing telemedicine industry.
 
 This app is still in beta testing phase. There are still a lot of features and functions to be added, bugs to be fixed, and refactoring to be done.
 
@@ -49,7 +49,7 @@ This app is still in beta testing phase. There are still a lot of features and f
 ![Alt Text](Gifs/Blood-Glucose.gif)
 
 # TarkovMarket
-**TarkovMarket** started as a personal need for an app that can help me quickly view item prices to maximize my profits each raid in Battlestate Game’s *Escape From Tarkov*, a game that forever ruined my enjoyment of any other FPS games. It’s a simple app that retrieves item information from the game’s flea market, using a 3rd party API service. Users can select items to add to the favourite list so that they have quick access to item information at a glance. 
+**TarkovMarket** is a simple market information app for Battlestate Game’s Escape from Tarkov. It retrieves data using a 3rd party API service and displays it appropriately on UITableView and UICollectionView using the latest Diffable Data Source technology for responsive, reactive, and powerful performance. The app uses Core Data for persistence to enable users to favourite their desired items for quick access.
 
 #### Technology: Core Data, CloudKit, Diffable Data Source, REST API, UIRefreshControl, ResultTypes
 #### 3rd Party Libraries: None
