@@ -1,5 +1,7 @@
 <a href="https://twitter.com/chriisong" target="_blank"><img src="https://img.shields.io/badge/twitter-@chriisong-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
+![Alt Text](Gifs/test.gif)
+
 # Hub
 
 [Hub](https://github.com/chriisong/GitHubFollowers) is a take-home project by [Sean Allen](https://github.com/sallen0400). It is a GitHub follower app that quickly searches for a list of followers for a given username using GitHub’s public API. With the retrieved followers list, users can further access the follower’s GitHub profile using SFSafariView and retrieve the follower’s own follower list. Upon completion of the course, I have added some additional features such as Core Data and CloudKit capabilities, additional view controllers for smoother user experience, and changing the `FavouritesVC` to be UITableViewDiffableSource. 
