@@ -24,13 +24,11 @@
 ### Deleting all UITableView Rows with Snapshot and updating Core Data
 ![Alt Text](HubGifs/CoreDataDeleteAll.gif)
 
-# SongCare
-**SongCare** is a Personal Health Record app that enables patients to keep a well-organized record of their prescriptions, blood glucose values, blood pressure values, weight measurements, and clinic appointments, and set alerts to remind them to take their prescriptions, measure their health indices, and attend their appointments. Patients will then be able to share their data with their medical professionals in order to receive appropriate coaching and prescription adjusting to better suit their current health trend. SongCare stores all sensitive data in private CloudKit containers not only to keep the data secure, but also to allow ease of use when operating from different device. SongCare allows for unimpeded access to a patient’s own medical record and will play a bigger role in the growing telemedicine industry.
-
-This app is still in beta testing phase. There are still a lot of features and functions to be added, bugs to be fixed, and refactoring to be done.
+# Mango Care
+**Mango Care** is a Personal Health Record app that enables patients to keep a well-organized record of their prescriptions, blood glucose values, blood pressure values, weight measurements, and clinic appointments, and set alerts to remind them to take their prescriptions, measure their health indices, and attend their appointments. Patients will then be able to share their data with their medical professionals in order to receive appropriate coaching and prescription adjusting to better suit their current health trend. SongCare stores all sensitive data in private CloudKit containers not only to keep the data secure, but also to allow ease of use when operating from different device. SongCare allows for unimpeded access to a patient’s own medical record and will play a bigger role in the growing telemedicine industry.
 
 #### Technology: Core Data, CloudKit, UNNotification, Diffable Data Source, REST API
-#### 3rd Party Libraries: FSCalendar, YPImagePicker, PanModal, Charts
+#### 3rd Party Libraries: FSCalendar, YPImagePicker, Charts
 
 ## Screen Recordings
 
