@@ -21,3 +21,5 @@
 #### Technology: Core Data, CloudKit, Diffable Data Source, REST API, UIRefreshControl, ResultTypes
 #### 3rd Party Libraries: None
 #### TestFlight Public Link: https://testflight.apple.com/join/PQc27sZx
+
+Our preview images were created with <a href="https://previewed.app/">Previewed</a>
