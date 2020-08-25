@@ -14,6 +14,8 @@
     <img src="Screenshots/MangoCare/image2.png" width="528" max-width="90%" alt="MangoCare" />
 </p>
 
+![alt-text-1](Screenshots/MangoCare/image1.png) ![alt-text-2](Screenshots/MangoCare/image2.png)
+
 # [Hub](https://github.com/chriisong/GitHubFollowers)
 
 [Hub](https://github.com/chriisong/GitHubFollowers) is a take-home project by [Sean Allen](https://github.com/sallen0400). It is a GitHub follower app that quickly searches for a list of followers for a given username using GitHub’s public API. With the retrieved followers list, users can further access the follower’s GitHub profile using SFSafariView and retrieve the follower’s own follower list. Upon completion of the course, I have added some additional features such as Core Data and CloudKit capabilities, additional view controllers for smoother user experience, and changing the `FavouritesVC` to be UITableViewDiffableSource. 
