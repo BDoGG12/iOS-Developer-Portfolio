@@ -23,6 +23,15 @@
 #### Technology: Diffable Data Source, Core Data, CloudKit, Result Type, REST API
 #### 3rd Party Libraries: None
 
+## Screenshots:
+<p float="left">
+    <img src="Screenshots/Hub/image1.png" width="185" />
+    <img src="Screenshots/Hub/image2.png" width="185" />
+    <img src="Screenshots/Hub/image3.png" width="185" />
+    <img src="Screenshots/Hub/image4.png" width="185" />
+    <img src="Screenshots/Hub/image5.png" width="185" />
+</p>
+
 
 # [TarkovMarket](https://github.com/chriisong/TarkovMarketDemo)
 **TarkovMarket** is a simple market information app for Battlestate Game’s Escape from Tarkov. It retrieves data using a 3rd party API service and displays it appropriately on UITableView and UICollectionView using the latest Diffable Data Source technology for responsive, reactive, and powerful performance. The app uses Core Data for persistence to enable users to favourite their desired items for quick access.
