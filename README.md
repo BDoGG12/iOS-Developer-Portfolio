@@ -6,6 +6,13 @@
 #### Technology: Core Data, CloudKit, UNNotification, Diffable Data Source, REST API
 #### 3rd Party Libraries: FSCalendar, YPImagePicker, Charts
 
+## Screenshots:
+<p align="center">
+    <img src="Screenshots/MangoCare/image1.png" width="528" max-width="90%" alt="MangoCare" />
+</p>
+<p align="center">
+    <img src="Screenshots/MangoCare/image2.png" width="528" max-width="90%" alt="MangoCare" />
+</p>
 
 # [Hub](https://github.com/chriisong/GitHubFollowers)
 
