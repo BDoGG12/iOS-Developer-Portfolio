@@ -9,17 +9,9 @@
 ## Screenshots:
 <p float="left">
     <img src="Screenshots/MangoCare/image1.png" width="100" />
-</p>
-<p float="left">
     <img src="Screenshots/MangoCare/image2.png" width="100" />
-</p>
-<p float="left">
     <img src="Screenshots/MangoCare/image3.png" width="100" />
-</p>
-<p float="left">
     <img src="Screenshots/MangoCare/image4.png" width="100" />
-</p>
-<p float="left">
     <img src="Screenshots/MangoCare/image5.png" width="100" />
 </p>
 
