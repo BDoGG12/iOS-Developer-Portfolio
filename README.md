@@ -8,13 +8,21 @@
 
 ## Screenshots:
 <p align="center">
-    <img src="Screenshots/MangoCare/image1.png" width="528" max-width="90%" alt="MangoCare" />
+    <img src="Screenshots/MangoCare/image1.png" width="100" max-width="90%" alt="MangoCare" />
 </p>
 <p align="center">
-    <img src="Screenshots/MangoCare/image2.png" width="528" max-width="90%" alt="MangoCare" />
+    <img src="Screenshots/MangoCare/image2.png" width="100" max-width="90%" alt="MangoCare" />
+</p>
+<p align="center">
+    <img src="Screenshots/MangoCare/image3.png" width="100" max-width="90%" alt="MangoCare" />
+</p>
+<p align="center">
+    <img src="Screenshots/MangoCare/image4.png" width="100" max-width="90%" alt="MangoCare" />
+</p>
+<p align="center">
+    <img src="Screenshots/MangoCare/image5.png" width="100" max-width="90%" alt="MangoCare" />
 </p>
 
-![alt-text-1](Screenshots/MangoCare/image1.png) ![alt-text-2](Screenshots/MangoCare/image2.png)
 
 # [Hub](https://github.com/chriisong/GitHubFollowers)
 
