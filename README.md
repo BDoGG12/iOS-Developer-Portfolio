@@ -5,22 +5,6 @@
 
 #### Technology: Core Data, CloudKit, UNNotification, Diffable Data Source, REST API
 #### 3rd Party Libraries: FSCalendar, YPImagePicker, Charts
-## Screen Recordings
-
-### Adding Reminders and Editing Reminders
-![Alt Text](Gifs/Reminder.gif)
-
-### Adding Lab Results using YPImagePicker
-![Alt Text](Gifs/Lab-Results.gif)
-
-### Add Prescription
-![Alt Text](Gifs/Prescription.gif)
-
-### REST API to download more drug data
-![Alt Text](Gifs/DrugDB.gif)
-
-### Updating Home view after making changes from other views
-![Alt Text](Gifs/Blood-Glucose.gif)
 
 
 # Hub
