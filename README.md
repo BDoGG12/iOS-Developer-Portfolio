@@ -7,20 +7,20 @@
 #### 3rd Party Libraries: FSCalendar, YPImagePicker, Charts
 
 ## Screenshots:
-<p align="center">
-    <img src="Screenshots/MangoCare/image1.png" width="100" max-width="90%" alt="MangoCare" />
+<p float="left">
+    <img src="Screenshots/MangoCare/image1.png" width="100" />
 </p>
-<p align="center">
-    <img src="Screenshots/MangoCare/image2.png" width="100" max-width="90%" alt="MangoCare" />
+<p float="left">
+    <img src="Screenshots/MangoCare/image2.png" width="100" />
 </p>
-<p align="center">
-    <img src="Screenshots/MangoCare/image3.png" width="100" max-width="90%" alt="MangoCare" />
+<p float="left">
+    <img src="Screenshots/MangoCare/image3.png" width="100" />
 </p>
-<p align="center">
-    <img src="Screenshots/MangoCare/image4.png" width="100" max-width="90%" alt="MangoCare" />
+<p float="left">
+    <img src="Screenshots/MangoCare/image4.png" width="100" />
 </p>
-<p align="center">
-    <img src="Screenshots/MangoCare/image5.png" width="100" max-width="90%" alt="MangoCare" />
+<p float="left">
+    <img src="Screenshots/MangoCare/image5.png" width="100" />
 </p>
 
 
