@@ -1,10 +1,11 @@
 <a href="https://twitter.com/chriisong" target="_blank"><img src="https://img.shields.io/badge/twitter-@chriisong-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-# [Mango Care](https://github.com/chriisong/MangoCareDemo)
-**Mango Care** is a Personal Health Record app that enables patients to keep a well-organized record of their prescriptions, blood glucose values, blood pressure values, weight measurements, and clinic appointments, and set alerts to remind them to take their prescriptions, measure their health indices, and attend their appointments. Patients will then be able to share their data with their medical professionals in order to receive appropriate coaching and prescription adjusting to better suit their current health trend. SongCare stores all sensitive data in private CloudKit containers not only to keep the data secure, but also to allow ease of use when operating from different device. SongCare allows for unimpeded access to a patient’s own medical record and will play a bigger role in the growing telemedicine industry.
+# [mango CARE](https://github.com/chriisong/MangoCareDemo)
+**mango CARE** is a Personal Health Record app that enables patients to keep a well-organized record of their prescriptions, blood glucose values, blood pressure values, weight measurements, blood oxygen saturation levels, and clinic appointments, and set alerts to remind them to take their prescriptions, measure their health indices, and attend their appointments. Patients will then be able to share their data with their medical professionals in order to receive appropriate coaching and prescription adjusting to better suit their current health trend. mango CARE stores all sensitive data using Core Data persistent containers to keep the data secure. mango CARE allows for unimpeded access to a patient’s own medical record and will play a bigger role in the growing telemedicine industry.
 
-#### Technology: Core Data, CloudKit, UNNotification, Diffable Data Source, REST API
-#### 3rd Party Libraries: FSCalendar, YPImagePicker, Charts
+#### Technology: Core Data, CloudKit, UNNotification, Diffable Data Source, REST API, HealthKit, CareKit
+#### 3rd Party Libraries: FSCalendar, Charts
+#### TestFlight Public Link: https://testflight.apple.com/join/b5Bk1Zho
 
 ## Screenshots:
 <p float="left">
