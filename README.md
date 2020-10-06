@@ -9,12 +9,12 @@
 
 ## Screenshots:
 <p float="left">
-    <img src="Screenshots/MangoCare/ss1.png" width="165" />
-    <img src="Screenshots/MangoCare/ss2.png" width="165" />
-    <img src="Screenshots/MangoCare/ss3.png" width="165" />
-    <img src="Screenshots/MangoCare/ss4.png" width="165" />
-    <img src="Screenshots/MangoCare/ss5.png" width="165" />
-    <img src="Screenshots/MangoCare/ss6.jpeg" width="165" />
+    <img src="Screenshots/MangoCare/image1.png" width="165" />
+    <img src="Screenshots/MangoCare/image2.png" width="165" />
+    <img src="Screenshots/MangoCare/image3.png" width="165" />
+    <img src="Screenshots/MangoCare/image4.png" width="165" />
+    <img src="Screenshots/MangoCare/image5.png" width="165" />
+    <img src="Screenshots/MangoCare/image6.png" width="165" />
 </p>
 
 
