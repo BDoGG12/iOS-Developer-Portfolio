@@ -5,7 +5,7 @@
 
 #### Technology: Core Data, CloudKit, UNNotification, Diffable Data Source, REST API, HealthKit, CareKit
 #### 3rd Party Libraries: FSCalendar, Charts
-#### App Store: https://apps.apple.com/ca/app/mango-care/id1530663479
+#### App Store: https://apple.co/2GJjWGs
 
 ## Screenshots:
 <p float="left">
